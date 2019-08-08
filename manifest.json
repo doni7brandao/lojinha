@@ -1,0 +1,100 @@
+{"dir" : "ltr",
+    "lang" : "Portuguese",
+    "name" : "Web Lista",
+    "scope" : "https://site-weblista.blogspot.com/",
+    "display" : "standalone",
+    "start_url" : "https://site-weblista.blogspot.com/",
+    "short_name" : "Web Lista",
+    "theme_color" : "transparent",
+    "description" : "Lista Comercial, Empresarial, de Profissionais e Serviços em Baixa Grande do Ribeiro-Piauí, Brasil.",
+    "orientation" : "portrait",
+    "background_color" : "pick",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://site-weblista.blogspot.com/favicon.ico",
+            "sizes": "32x32 16x16"
+        },
+        {
+            "src": "https://site-weblista.blogspot.com/favicon.ico",
+            "sizes": "32x32 16x16"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "44x44"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "48x48"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1240x600"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "300x300"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "150x150"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "88x88"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "24x24"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "50x50"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "620x300"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "192x192"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "144x144"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "96x96"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "72x72"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "36x36"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "180x180"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "152x152"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "120x120"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "76x76"
+        }
+    ]}
