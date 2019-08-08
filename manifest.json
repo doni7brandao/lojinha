@@ -5,7 +5,7 @@
     "display" : "standalone",
     "start_url" : "https://site-weblista.blogspot.com/",
     "short_name" : "Web Lista",
-    "theme_color" : "transparent",
+    "theme_color" : "#075E54",
     "description" : "Lista Comercial, Empresarial, de Profissionais e Serviços em Baixa Grande do Ribeiro-Piauí, Brasil.",
     "orientation" : "portrait",
     "background_color" : "pick",
