@@ -29,12 +29,76 @@
     if (window.location.protocol != "https:" && window.location.hostname == "sergiolopes.github.io")
         window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
     </script>
+    <style type="text/css">
+        html, body, .main, .main iframe {
+            width: 100%;
+            height: 100%;
+        }
+.main iframe {
+   border: none;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+
+.msg-wrap {
+font-size:110%;
+color: #397f2e;
+width:100%;
+margin:20px auto;
+}
+.msg-body {
+padding:20px 2%;
+width:96%;
+}
+.msg-border {
+border:1px solid #aadea2;
+border-radius: 5px;
+opacity:10;
+width:auto;
+}
+.msg-bg {
+background-color:#eaf8e8;
+border-radius: 5px;
+}
+.msg-hidden {
+padding:20px 2%;
+}
+
+#main-wrapper{width: 100%; float:none; margin: 0 auto;}
+.main-wrapper{width: 100%; float:none; margin: 0 auto;}
+.post{width: 100%;margin: 0 auto;}
+.sidebar {display:none;}
+.sidebar-wrapper {display:none;}
+.sidebartab {display:none;}
+.bottombar {display:none;}
+.header-wrapper {display:none;}
+#sidebar {display:none;}
+#sidebar-wrapper {display:none;}
+#sidebar-container {display:none;}
+#sidebartab {display:none;}
+#bottombar {display:none;}
+#header-wrapper {display:none;}
+    </style>
 
 </head>
 <body>
-<?php 
-header("Location:https://www.weblista.site/"); 
-?>
+<div class="msg-wrap">
+      <div class="msg-body">
+         <div class="msg-border">
+            <div class="msg-bg">
+               <div class="msg-hidden">
+               Por favor, aguarde... Estamos carregando a página da <strong>WebLista</strong> para você.
+               </div>
+</div>
+</div>
+</div>
+</div>
+<div class="main">
+<iframe src="https://www.weblista.site/"></iframe>
+</div>
 
 <script src="js/vendor/jquery.min.js"></script>
 <script src="js/vendor/materialize-0.97.0.min.js"></script>
