@@ -1,16 +1,96 @@
 {
-  "short_name": "Shopping",
-  "name": "O Shopping",
+  "ltr","lang":"Portuguese",
+  "short_name": "WebLista",
+  "name": "WebLista v1",
   "icons": [
-    {
-      "src": "img/icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
+        {
+            "src": "https://site-weblista.blogspot.com/favicon.ico",
+            "sizes": "32x32 16x16"
+        },
+        {
+            "src": "https://site-weblista.blogspot.com/favicon.ico",
+            "sizes": "32x32 16x16"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "44x44"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-hpzxsS_Mb9g/XUuWXFT-H2I/AAAAAAAAATk/Z3g-__uEkOMFYKFj1OhedZb8UIo1fCbfQCLcBGAs/s1600/android-icon-48x48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1240x600"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-XyDw8GNtVX4/XUuWvEZ2lkI/AAAAAAAAAVI/99adXb2_KFgmUFXQG2xslaizO3ECkA1ygCLcBGAs/s1600/ms-icon-310x310.png",
+            "sizes": "310x310"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-b9o895rTKVI/XUuWvCk7-PI/AAAAAAAAAVE/QqNDslmvoR8WNm68VHmLlbSIjxcrjuiigCLcBGAs/s1600/ms-icon-150x150.png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "88x88"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "24x24"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "50x50"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "620x300"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-IfYHsCV5Kv4/XUuWWmJ4QOI/AAAAAAAAATg/v2_7aWeADjokpGpN092BsezWL4xM2RpdwCLcBGAs/s1600/android-icon-192x192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-ysTDH-Dkw5o/XUuWWdgEJTI/AAAAAAAAATY/qugGIIS7GyY2fGYm8icvasWhdKpGAGfGACLcBGAs/s1600/android-icon-144x144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-ztOqwCTA5Xo/XUuWXo1VaeI/AAAAAAAAATs/XWulggb8OIoNeHfpSDtRcv3XJinMjtt8QCLcBGAs/s1600/android-icon-96x96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-57Nmw5hHAd8/XUuWaXyHrmI/AAAAAAAAAUM/uep1zYhn030NmPfd9Vl94OnbYOI63PWJACLcBGAs/s1600/apple-icon-72x72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-5DHLYVErlxk/XUuWWd9r5xI/AAAAAAAAATc/y0El-Ub9ljgX4XmFdgJtHjuCe-QE5EKdQCLcBGAs/s1600/android-icon-36x36.png",
+            "sizes": "36x36"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-FvvPiFo6-WE/XUuWYx_W-hI/AAAAAAAAAUA/3cxr50Wp5kMXK7RoRDkGXhzmhd17zIkDQCLcBGAs/s1600/apple-icon-180x180.png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-wDTnFineCiY/XUuWYhpj_yI/AAAAAAAAAT8/tQDGFxrPIkg5u_FZi38_SuoAhc0HACq2ACLcBGAs/s1600/apple-icon-152x152.png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-X1w4m6hcTMs/XUuWYOPNevI/AAAAAAAAAT0/umhohDQ7T5QNFlv-i3_Rh9aBOOvJHcxXQCLcBGAs/s1600/apple-icon-120x120.png",
+            "sizes": "120x120"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-wE3y3MFhi48/XUuWawswgoI/AAAAAAAAAUQ/ePuIWb7jbn4gnjvNDVl1oGVI0rq-0xUdQCLcBGAs/s1600/apple-icon-76x76.png",
+            "sizes": "76x76"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "https://www.weblista.site/",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#F77F00",
-  "background_color": "#FFB400"
+  "theme_color": "#075E54",
+  "background_color": "#ECE5DD"
 }
